@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+}
+
+
+
+
+.odd{
+  color: tomato;
+}
+
+.even{
+  color: orange;
+}
+
+#head{
+  color: green;
+  
+}
+
+p{
+  color: green;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  border-style: outset;
+  border-width: 5px;
+  border-color: gold;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#head{
+  border-top-style: dotted;
+  border-left-style: double;
+  border-right-style: double;
+  border-bottom-style: dotted;
+  text-align: center;
+  border-left-width: 10px;
+  border-color: silver;
+}
+
+
